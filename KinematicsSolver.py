@@ -1,5 +1,5 @@
-
-#graphing calculator
+#kniematics solver
+#jackson Henry
 import wx
 from math import sqrt
 
