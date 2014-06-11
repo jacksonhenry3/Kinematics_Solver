@@ -22,8 +22,13 @@
 <p>
 	where d is distance, t is time, v<sub>i</sub> is the initial velocity, v<sub>f</sub> is the final velocity and a is the acceleration. This program brute forces the problems. I manually solved every equation for every variable and input the symbolic solution. After that when the user inputs the known variables it essential check what equations are applicable to solve for the desired variable and then calculates it using the general solution i found.
 </p>
+you can read more about kinematics <a href = 'http://www.physicsclassroom.com/class/1DKin/Lesson-6/Kinematic-Equations'>here</a>
 <hr>
-written in Python 2.7.3<br>
+written in <a href = 'https://www.python.org/'>Python</a> 2.7.3<br>
 
 Dependencies:
-	<ul><li>wxPython (http://www.wxpython.org/)</li></ul>
+	<ul>
+		<li>
+			<a href = 'http://www.wxpython.org/'>wxPython</a>
+		</li>
+	</ul>
